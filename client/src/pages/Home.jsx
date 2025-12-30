@@ -17,7 +17,7 @@ const Home = () => {
   return (
     <div className="bg-brand-light font-sans text-brand-dark">
       {/* 1. HERO SECTION */}
-      <section className="relative h-[650px] flex items-center">
+      <section className="relative h-[780px] flex items-center">
         {/* Background Image */}
         <div
           className="absolute inset-0 bg-cover bg-center z-0"
